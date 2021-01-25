@@ -1,0 +1,22 @@
+{
+  "name": "2106-1",
+  "version": "0.0.1",
+  "description": "Zoom Tools Express Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashidizawesome/2106-1.git"
+  },
+  "author": "Rashid Haroun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rashidizawesome/2106-1/issues"
+  },
+  "homepage": "https://github.com/rashidizawesome/2106-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
